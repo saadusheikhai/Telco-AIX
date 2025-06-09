@@ -226,7 +226,7 @@ agentic/
 ```
 
 '''
-calude.md file is not available in repo
+CLAUDE.md file is not available in repo
 '''
 
 ## Disclaimer
